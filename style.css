@@ -1,0 +1,96 @@
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*
+*{
+  border:1px solid red;
+}
+*/
+
+h2.destination {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight:bold;
+  color:white;
+  text-align: left;
+  margin: 60px 50px 10px 0px;
+}
+
+.heading-background-brushes {
+  background-color:mediumspringgreen;
+  height:50px;
+  width:1200px;
+}
+
+.heading-background-frames {
+  background-color:lightcoral;
+  height:50px;
+  width:1200px;
+}
+
+.heading-background-paint {
+  background-color:skyblue;
+  height:50px;
+  width:1200px;
+}
+
+
+#banner {
+  background-image: url("./resources/images/pattern.jpeg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100px;
+  width: 1250px;
+
+}
+
+#banner .content h1 {
+  font-family: Helvetica;
+  font-size:100px;
+  color:khaki;
+  position: relative;
+  top: 0px;
+  width: 1300px;
+  margin: 0 auto;
+}
+
+h2 {
+  border: 1px dotted red;
+  color: black;
+  font-size: 14px;
+  line-height: 48px;
+  padding: 20px 30px;
+  margin: 30px 20px;
+  text-align: center;
+}
+
+h3 {
+  color:black;
+  font-size: 26px;
+  font-weight: 700;
+  padding: 0px 10px;
+  margin:10px 0px;
+}
+
+p {
+  color: grey;
+  font-size: 16px;
+  line-height: 28px;
+  top:0px;
+  margin-top: -5px;
+  padding:0px 0px 0px 10px;  
+}
+
+
+ a {
+  
+  color: blue;
+  display: inline-block;
+  margin-left: 10px;
+  padding: 0px;
+  font-weight:bold;
+  text-decoration: none;
+}
+
